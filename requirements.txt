@@ -1,0 +1,16 @@
+# SIGNALVEX_V2 — Requirements Specification
+# Drone-Based Human Detection and Rescue Mapping Prototype
+# Compatible with Windows (CPU / Laptop) and Linux deployment
+
+# Core Vision & Deep Learning
+ultralytics>=8.1.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+lap>=0.5.12
+
+# Web Dashboard & Data Science
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
